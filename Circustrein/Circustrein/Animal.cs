@@ -35,10 +35,17 @@ namespace Circustrein
             return AnimalSize.ToString() + " " + AnimalDiet.ToString();
         }
 
-        public bool Canibalism(Animal animal)
+        public bool WillEatEachother(Animal animal, Wagon wagon)
         {
-            return ((AnimalDiet == Diet.Carnivore && (int)AnimalSize >= (int)animal.AnimalSize) ||
-                (animal.AnimalDiet == Diet.Carnivore && (int)animal.AnimalSize >= (int)AnimalSize));
+            foreach (Animal wagonAnimal in wagon.Contents)
+            {
+                if ((animal.AnimalDiet == Diet.Carnivore && (int)animal.AnimalSize >= (int)wagonAnimal.AnimalSize) ||
+                (wagonAnimal.AnimalDiet == Diet.Carnivore && (int)wagonAnimal.AnimalSize >= (int)animal.AnimalSize))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
 }

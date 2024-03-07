@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|c:\\users\\jayce\\onedrive\\bureaublad\\school\\software\\circustrein\\circustrein\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|solutionrelative:circustrein\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|c:\\users\\jayce\\onedrive\\bureaublad\\school\\software\\circustrein\\circustrein\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|solutionrelative:circustrein\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\circustrein\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|solutionrelative:circustrein\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\circustrein\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|solutionrelative:circustrein\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\circustrein\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|solutionrelative:circustrein\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\circustrein\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1D8A7E-6652-435D-8772-59F8804894FC}|Circustrein\\Circustrein.csproj|solutionrelative:circustrein\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Director.cs",
+              "RelativeDocumentMoniker": "Circustrein\\Director.cs",
+              "ToolTip": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Director.cs",
+              "RelativeToolTip": "Circustrein\\Director.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:30:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Form1.cs",
+              "RelativeDocumentMoniker": "Circustrein\\Form1.cs",
+              "ToolTip": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Form1.cs",
+              "RelativeToolTip": "Circustrein\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:17:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Train.cs",
+              "RelativeDocumentMoniker": "Circustrein\\Train.cs",
+              "ToolTip": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Train.cs",
+              "RelativeToolTip": "Circustrein\\Train.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:30:18.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wagon.cs",
+              "DocumentMoniker": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Wagon.cs",
+              "RelativeDocumentMoniker": "Circustrein\\Wagon.cs",
+              "ToolTip": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Wagon.cs",
+              "RelativeToolTip": "Circustrein\\Wagon.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA+wBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:02:19.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Animal.cs",
+              "RelativeDocumentMoniker": "Circustrein\\Animal.cs",
+              "ToolTip": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Animal.cs",
+              "RelativeToolTip": "Circustrein\\Animal.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:35:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Form1.cs",
+              "RelativeDocumentMoniker": "Circustrein\\Form1.cs",
+              "ToolTip": "C:\\Users\\jayce\\OneDrive\\Bureaublad\\School\\Software\\Circustrein\\Circustrein\\Form1.cs [Design]",
+              "RelativeToolTip": "Circustrein\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:14:40.775Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

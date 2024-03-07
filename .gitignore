@@ -398,3 +398,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /Circustrein/.vs/Circustrein/FileContentIndex/34bbf56b-bd94-4d4c-b468-d53cd766aa82.vsidx
+/Circustrein/.vs/Circustrein/v17/.suo
+/Circustrein/.vs/Circustrein/v17/DocumentLayout.json

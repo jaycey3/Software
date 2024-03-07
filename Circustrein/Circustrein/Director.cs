@@ -23,10 +23,10 @@ namespace Circustrein
                                        .ThenByDescending(a => a.AnimalSize)
                                        .ToList();
 
-            int wagonCountAsc = Train.SortAnimals(ascending);
-            int wagonCountDesc = Train.SortAnimals(decending);
+            List<Wagon> wagonCountAsc = Train.SortAnimals(ascending);
+            List<Wagon> wagonCountDesc = Train.SortAnimals(decending);
 
-            if (wagonCountAsc < wagonCountDesc)
+            if (wagonCountAsc.Count < wagonCountDesc.Count)
             {
                 Train.SortAnimals(ascending);
             }

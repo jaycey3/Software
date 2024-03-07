@@ -26,7 +26,6 @@ namespace Circustrein
             wagonList.Items.Clear();
             animals.Clear();
             Director.Train.Wagons.Clear();
-            
 
             for (int i = 0; i < smallHerbivoreCount.Value; i++)
             {

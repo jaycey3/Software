@@ -28,3 +28,13 @@ C:\Users\jayce\OneDrive\Bureaublad\School\Software\Circustrein\Circustrein\obj\D
 C:\Users\jayce\OneDrive\Bureaublad\School\Software\Circustrein\Circustrein\obj\Debug\Circustrein.csproj.CoreCompileInputs.cache
 C:\Users\jayce\OneDrive\Bureaublad\School\Software\Circustrein\Circustrein\obj\Debug\Circustrein.exe
 C:\Users\jayce\OneDrive\Bureaublad\School\Software\Circustrein\Circustrein\obj\Debug\Circustrein.pdb
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\bin\Debug\Circustrein.exe.config
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\bin\Debug\Circustrein.exe
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\bin\Debug\Circustrein.pdb
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\obj\Debug\Circustrein.csproj.AssemblyReference.cache
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\obj\Debug\Circustrein.Circustrein.resources
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\obj\Debug\Circustrein.Properties.Resources.resources
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\obj\Debug\Circustrein.csproj.GenerateResource.cache
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\obj\Debug\Circustrein.csproj.CoreCompileInputs.cache
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\obj\Debug\Circustrein.exe
+C:\Users\jayce\OneDrive\Bureaublad\Software\Circustrein\Circustrein\obj\Debug\Circustrein.pdb

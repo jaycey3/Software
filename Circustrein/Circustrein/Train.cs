@@ -28,7 +28,7 @@ namespace Circustrein
             return false;
         }
 
-        public int SortAnimals(List<Animal> animals)
+        public List<Wagon> SortAnimals(List<Animal> animals)
         {
             Wagons.Clear();
             foreach (Animal animal in animals)
@@ -65,7 +65,7 @@ namespace Circustrein
                 }
             }
 
-            return Wagons.Count;
+            return Wagons;
         }
     }
 }

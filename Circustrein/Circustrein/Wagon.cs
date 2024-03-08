@@ -35,9 +35,9 @@ namespace Circustrein
             }
         }
 
-        public void AddAnimal(Animal a)
+        public void AddAnimal(Animal animal)
         {
-            Contents.Add(a);
+            Contents.Add(animal);
         }
     }
 }

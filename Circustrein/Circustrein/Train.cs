@@ -16,7 +16,7 @@ namespace Circustrein
             Wagons = new List<Wagon>();
         }
 
-        public List<Wagon> SortAnimals(List<Animal> animals)
+        public List<Wagon> SortAndAddAnimals(List<Animal> animals)
         {
             Wagons.Clear();
             foreach (Animal animal in animals)

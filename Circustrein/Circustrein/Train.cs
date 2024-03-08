@@ -16,18 +16,6 @@ namespace Circustrein
             Wagons = new List<Wagon>();
         }
 
-        private bool WillEatEachother(Animal animal, Wagon wagon)
-        {
-            foreach (Animal wagonAnimal in wagon.Contents)
-            {
-                if (animal.Canibalism(wagonAnimal))
-                {
-                    return true;
-                }
-            }
-            return false;
-        }
-
         public List<Wagon> SortAnimals(List<Animal> animals)
         {
             Wagons.Clear();
@@ -44,10 +32,10 @@ namespace Circustrein
                 {
                     if (!wagon.CanAddAnimal(animal))
                     {
-                        continue; 
+                        continue;
                     }
 
-                    if (WillEatEachother(animal,wagon))
+                    if (animal.WillEatEachother(animal, wagon))
                     {
                         continue;
                     }

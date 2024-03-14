@@ -26,9 +26,8 @@ namespace Circustrein
 
                 foreach (Wagon wagon in Wagons)
                 {
-                    if (wagon.CanAddAnimal(animal) && !animal.WillEatEachother(animal, wagon))
+                    if (wagon.TryToAddAnimal(animal, wagon))
                     {
-                        wagon.AddAnimal(animal);
                         animalAdded = true;
                         break;
                     }

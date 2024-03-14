@@ -199,7 +199,7 @@ namespace unitests
         }
 
         [TestMethod]
-        public void CanAddAnimalTest()
+        public void TryToAddAnimalTest()
         {
             Wagon wagon = new Wagon();
 
@@ -208,9 +208,8 @@ namespace unitests
 
             Animal animal = new Animal(Animal.Size.Large, Animal.Diet.Herbivore);
 
-            wagon.CanAddAnimal(animal);
 
-            Assert.AreEqual(true, wagon.CanAddAnimal(animal));
+            Assert.IsTrue(wagon.TryToAddAnimal(animal, wagon));
         }
 
         [TestMethod]
@@ -229,7 +228,7 @@ namespace unitests
                 animalInWagon = true;
             }
 
-            Assert.AreEqual(true, animalInWagon);
+            Assert.IsTrue(animalInWagon);
         }
 
         [TestMethod]
@@ -242,7 +241,7 @@ namespace unitests
 
             bool result = carnivore.WillEatEachother(carnivore, wagon);
 
-            Assert.AreEqual(true, result);
+            Assert.IsTrue(result);
         }
     }
 }

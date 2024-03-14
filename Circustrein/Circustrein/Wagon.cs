@@ -16,21 +16,25 @@ namespace Circustrein
             Contents = new List<Animal>();
         }
 
-        public bool CanAddAnimal(Animal animal)
+        public bool TryToAddAnimal(Animal animal, Wagon wagon)
         {
             int animalSize = (int)animal.AnimalSize;
             int wagonContents = 0;
 
-            foreach (Animal animalInWagen in Contents)
+            foreach (Animal animalInWagon in Contents)
             {
-                wagonContents += (int)animalInWagen.AnimalSize;
+                wagonContents += (int)animalInWagon.AnimalSize;
             }
 
-            if (wagonContents >= capacity || wagonContents + animalSize > capacity) 
+            if (wagonContents >= capacity || 
+                wagonContents + animalSize > capacity || 
+                animal.WillEatEachother(animal, wagon)) 
             { 
                 return false;
-            } else
+            }
+            else
             {
+                wagon.AddAnimal(animal);
                 return true;
             }
         }
